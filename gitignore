@@ -1,0 +1,16 @@
+# Fichiers et dossiers d'environnement
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers sensibles à exclure
+.env
+
+# Fichiers de Jupyter Notebook (checkpoints)
+.ipynb_checkpoints/
+
+# Fichiers spécifiques à l'IDE (VS Code)
+.vscode/
+
